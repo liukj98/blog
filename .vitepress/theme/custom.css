@@ -1,0 +1,27 @@
+:root {
+  --vp-c-brand-1: #3451b2;
+  --vp-c-brand-2: #3a5ccc;
+  --vp-c-brand-3: #5672cd;
+  --vp-c-brand-soft: rgba(100, 108, 255, 0.14);
+
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #3451b2 30%, #5672cd);
+}
+
+.dark {
+  --vp-c-brand-1: #6a7de2;
+  --vp-c-brand-2: #5672cd;
+  --vp-c-brand-3: #3a5ccc;
+}
+
+/* 首页 Hero 区域优化 */
+.VPHero .text {
+  font-size: 20px !important;
+  color: var(--vp-c-text-2);
+}
+
+/* 内容区域最大宽度 */
+.vp-doc {
+  max-width: 800px;
+  margin: 0 auto;
+}
