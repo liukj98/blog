@@ -20,6 +20,16 @@
   color: var(--vp-c-text-2);
 }
 
+/* Hero 图片样式 */
+.VPHero .VPImage {
+  border-radius: 50%;
+  border: 3px solid var(--vp-c-brand-1);
+  background-color: #fff;
+  padding: 8px;
+  max-width: 160px;
+  max-height: 160px;
+}
+
 /* 内容区域最大宽度 */
 .vp-doc {
   max-width: 800px;
