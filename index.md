@@ -56,7 +56,3 @@ features:
 | [设计模式](/designpartern/) | 4 | 23种设计模式 |
 | [其他](/other/) | 3 | Bash、SSH |
 
-## 🔗 友情链接
-
-- [代码随想录](https://programmercarl.com/) - 算法学习的好帮手
-- [力扣](https://leetcode.cn/) - 刷题平台
